@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>HTML Reference</title>
+<title></title>
 </head>
 <body>
 <h2>Hello World!!!!!!!!!!</h2>
